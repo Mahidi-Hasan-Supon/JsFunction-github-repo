@@ -18,8 +18,8 @@ console.log(totalAdd,total2)
 function doMath(num1,num2){
     const sum = num1 + num2;
     const sub= num1 - num2;
-    const mul=sum * sub;
-    const dif=mul / 2;
+    const multiply=sum * sub;
+    const dif=multiply / 2;
     // console.log(dif);
     return dif;
 }

@@ -6,7 +6,7 @@ function tenTimes (number){
 
 function cutHalf(number){
     const half = number / 2;
-    return half;`   `
+    return half;
 }
 tenTimes(5)
 const output= tenTimes(5)
